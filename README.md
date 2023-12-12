@@ -30,3 +30,6 @@ Species Information Data (Species_info.csv):
 
 Also provided by Codecademy.com.
 Note: The data for this project is inspired by real data but is mostly fictional.
+
+Tableau:
+You can find my Tableau Viz here: https://public.tableau.com/app/profile/rachel.wagner/viz/ProtectedSpeciesAcrossFourNationalParks/Dashboard1
